@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=kaanakdeniz&icon=2&color=0)](https://visitcount.itsvg.in)
 
-🔭 I’m currently working on Bitbucket Plugins and NLP<br>🌱 I’m currently learning Kubernetes, Cloud<br>💬 Ask me about Machine Learning, NLP, Web Development<br>📫 Contact me: kaanakdenz@gmail.com<br>📄 Resume: https://flowcv.com/resume/jm25tf7w2l
+🔭 I’m currently working on Bitbucket Plugins and NLP<br>🌱 I’m currently learning Kubernetes, Cloud<br>💬 Ask me about Machine Learning, NLP, Web Development<br>📫 Contact me: kaanakdenz@gmail.com<br>📄 [Here](https://flowcv.com/resume/jm25tf7w2lis my Resume.
 
 
 ## 🌐 Socials:
