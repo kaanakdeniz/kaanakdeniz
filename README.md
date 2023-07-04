@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaan Akdeniz</h1>
+<h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">Passionate engineer in software development and artificial intelligence.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=kaanakdeniz&icon=2&color=0)](https://visitcount.itsvg.in)
