@@ -2,6 +2,7 @@
 <h3 align="center">Passionate engineer in software development and artificial intelligence.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=kaanakdeniz&icon=2&color=0)](https://visitcount.itsvg.in)
+
 📫 Contact me: info@kaanakdeniz.com<br>
 
 
